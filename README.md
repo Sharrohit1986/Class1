@@ -1,5 +1,5 @@
 # Class1
-#Agenda
+# Agenda
 * Installation
 * Github
 * Java JVM
