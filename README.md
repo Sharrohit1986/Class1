@@ -13,9 +13,19 @@
 * Creating Objects
 
 ## Github
-Please create an account on this Site https://github.com and you can follow me on https://github.com/su33u1411
-Fork Class1 Repository https://github.com/su33u1411/Class1
-Download Class1 Project via Git Command
+Please create an account on this Site [GitHub](https://github.com) </br> You can follow me on [Author](https://github.com/su33u1411)</br> Fork Class1 Repository [Class 1](https://github.com/su33u1411/Class1)
+</br>
+Download Class1 Project via GIT Command
+</br>
+Open Terminal, Use the following commands
+
+```
+cd ./Desktop
+mkdir Java_Class1
+git clone <YOUR_REPOSIORTY_LINK>
+
+```
+Now you should have your own working copy.
 
 
 ## Java JVM
@@ -38,3 +48,7 @@ public static void main(String[] args)
 Java main method is the entry point of any java program. Its syntax is always public static void main(String[] args). You can only change the name of String array argument, for example you can change args to myStringArgs.
 
 * Create a Main method inside a Java Class
+
+## Print a String
+* Print a 'Hello World' using System.out.println()
+
